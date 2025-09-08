@@ -1,6 +1,6 @@
 Bài này có tag easy
 
-Đề bài yêu cầu tìm 2 số có tổng = n và không chưa 1 số không nào
+Đề bài yêu cầu tìm 2 số có tổng = n và không chứa 1 số 0 nào
 
 Giải thuật cơ bản thì ta duyệt từ 1 -> n
 
