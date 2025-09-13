@@ -1,0 +1,1 @@
+Bài hôm nay là 1 bài easy, với đề bài yêu cầu tìm tổng tần suất của nguyên âm và phụ âm suất hiện nhiều nhất. Thì đếm thôi, dùng 2 biến temp theo dõi 2 giá trị cao nhất để ko cần phải duyệt lại lần nx
